@@ -1,8 +1,3 @@
-Perfect 👍 You want the **GitHub-friendly README.md format** (Markdown, headings, badges style).
-Here’s the final version — you can copy-paste it directly into a `README.md` file in your repo:
-
----
-
 # 🎬 Movie Recommendation System
 
 A web-based **Movie Recommendation System** built with **Python, Flask, and the MovieLens dataset**.
